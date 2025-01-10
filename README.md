@@ -1,4 +1,4 @@
-## AI Assistant
+## GivaDogaBone
 Let's walk through the process of creating a **FastAPI application** built with **Poetry**, and deploying it using **GitHub Actions** into **AWS ECS Fargate**. I will provide the detailed **end-to-end instructions**, including creating the application, using Poetry for dependencies, Dockerizing it, and automating the deployment with GitHub Actions.
 
 ---
